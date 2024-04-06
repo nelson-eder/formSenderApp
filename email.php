@@ -44,7 +44,7 @@ trait Email {
             $y = strip_tags($e);
             $POST_KEY = str_replace('_', ' ', $y);
 
-            if($POST !== 'on'){
+            if($POST !== 'on' || $POST !== 'off'){
                 $divRow = "
                 <div style='margin: 10px' class='row'>
                     <label style='width: 100%; margin-top: 5px'>$POST_KEY</label>
