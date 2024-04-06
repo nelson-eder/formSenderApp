@@ -6,6 +6,32 @@ formailsender is a simple tool for cases when you have a HTML form and needs tha
 
 ![HTML Email template banner](https://nelsoneder.com/src/formSenderAppBanner1.png)
 
+## TAGS Support & config
+
+The name input tag are used as a label. See a example:
+
+```
+<input name="Name" value="Jhon">
+```
+
+![Input name example](https://nelsoneder.com/src/formSenderAppNameInput.png)
+
+You can use spaces between the words, but don't use _ in the name tags. They will be replaced by blank space.
+
+```
+<input name="Your company" value="My company">
+```
+
+![Input company example](https://nelsoneder.com/src/formSenderAppYourCompanyInput.png)
+
+And you can use Radio or Checkbox inputs in your form.
+
+```
+<input type="ckeckbox" name="Allow cookies" value="on">
+```
+
+![Input cookies example](https://nelsoneder.com/src/formSenderAppAllowCookiesInput.png)
+
 ## Methods
 
 ### dataIsOk()
