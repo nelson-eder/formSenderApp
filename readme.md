@@ -24,7 +24,7 @@ You can use spaces between the words, but don't use _ in the name tags. They wil
 
 ![Input company example](https://nelsoneder.com/src/formSenderAppYourCompanyInput.png)
 
-And you can use Radio or Checkbox inputs in your form.
+And you can use Checkbox input type in your form.
 
 ```
 <input type="ckeckbox" name="Allow cookies" value="on">
