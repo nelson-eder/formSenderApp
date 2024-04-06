@@ -4,7 +4,7 @@ formailsender is a simple tool for cases when you have a HTML form and needs tha
 
 ## HTML email template
 
-[HTML Email template banner](https://github.com/nelson-eder/src/formSenderAppBanner1.png)
+[HTML Email template banner](https://nelsoneder.com/src/formSenderAppBnner1.png)
 
 ## Methods
 
